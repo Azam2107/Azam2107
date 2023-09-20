@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azam2107
-- 👀 I’m interested in Python, ML, Django, Tkinter.
+- 👀 I’m interested in Python, ML, Django, Tkinter,GenAI, Rasa, Azure TTS, ASR
 - 💞️ I’m looking to collaborate on any of techonologies mention above
 - 📫 How to reach me - linkedIn - https://www.linkedin.com/in/azam-khan-811a08138/
 <!---
